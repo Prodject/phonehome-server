@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "screenshot-desktop": "^1.5.3",
+    "socket.io": "^2.2.0"
+  }
+}
